@@ -1,5 +1,6 @@
 # TouchJS 0.1 alpha
 Наглядный пример, как срабатывает touch эффект на чистом JavaScript
+![alt text](media/01alpha.gif)
 
 ### Что есть 
 * Как работает touch на 1 блоке
